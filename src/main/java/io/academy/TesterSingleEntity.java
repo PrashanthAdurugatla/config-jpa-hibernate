@@ -1,9 +1,9 @@
-package io.academy.simple;
+package io.academy;
 
 import javax.persistence.*;
 import java.util.List;
 
-public class Tester {
+public class TesterSingleEntity {
     public static void main(String[] args) {
 
         EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("jpa-example");

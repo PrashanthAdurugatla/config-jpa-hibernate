@@ -1,4 +1,4 @@
-package io.academy.simple;
+package io.academy.entity;
 
 import javax.persistence.*;
 import java.util.UUID;
